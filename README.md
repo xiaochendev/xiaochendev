@@ -14,7 +14,7 @@
 |----------|-----------|----------------------------------------------------------------------------------------|  
 |  wife    |   Python  |Does her best to provide a solution. Not the fastest, but supportive, smart, and honest.|
 | mistress |   Math    |   The combination of logic and innovation. Pretty, fun and successsful.                |
-| playboy  |     Me    |   Love "my wife", but cant stop think about her. What a pefect lady！                  |
+| playboy  |     Me    |   Love "my wife", but cant stop thinking about her. What a pefect lady!                |
 
 
 
