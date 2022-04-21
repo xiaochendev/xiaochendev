@@ -18,10 +18,10 @@
 
 
 ## The belief of life:
-   - You DEFINATELY not gonna make it, if you don't even try. You MIGHT if you try. 
-   - 我不喜欢这世界，却深爱着这世界！
-   - Enjoy your life, like its your last minute. 
-   - Love, Peace and Miracle.
+    -🥾 You DEFINATELY not gonna make it, if you don't even try. You MIGHT if you try. 
+    -💋 我不喜欢这世界，却深爱着这世界！
+    -👽 Enjoy your life, like its your last minute. 
+    -🌈 Love, Peace and Miracle.
 
 
 
