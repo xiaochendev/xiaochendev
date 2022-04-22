@@ -19,7 +19,7 @@
 
 ## The belief of life:
     🎯 You DEFINITELY not gonna make it, if you don't even try. You MIGHT if you try. 
-    💋 我不喜欢这世界，却深爱着这世界！
+    💋 不喜欢这世界，却深爱着这世界！
     🌈 Enjoy, Love, Peace and Miracle.
 
 
