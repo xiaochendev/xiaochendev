@@ -23,5 +23,5 @@
     🌈 Enjoy, Love, Peace and Miracle.
 
 
-![Visitor Count](https://profile-counter.glitch.me/ouerxiao/count.svg)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ouerxiao.visitor-badge)
 
