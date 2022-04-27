@@ -17,7 +17,7 @@
 | playboy  |     Me    |   Love "my wife", but cant stop thinking about her. What a pefect lady!                |
 
 
-## The belief of life:
+## :)
     🎯 You DEFINITELY not gonna make it, if you don't even try. You MIGHT if you try. 
     💋 不喜欢这世界，却深爱着这世界！
     🌈 Enjoy, Love, Peace and Miracle.
