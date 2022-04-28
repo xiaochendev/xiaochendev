@@ -10,11 +10,11 @@
 
 ## How I meet “You” ,
 
-| Role     |   Actor   |   Characteristic                                                                       |
-|----------|-----------|----------------------------------------------------------------------------------------|  
-|  wife    |   Python  |Does her best to provide a solution. Not the fastest, but supportive, smart, and honest.|
-| mistress |   Math    |   The combination of logic and innovation. Pretty, fun and successsful.                |
-| playboy  |     Me    |   Love "my wife", but cant stop thinking about her. What a pefect lady!                |
+|  Actor | Characteristic                                                                        |
+|--------|---------------------------------------------------------------------------------------|  
+| Python |  Life is short~~~ Not the fastest, but supportive, smart,and honest.                  |  
+|  Math  |  The combination of logic and innovation. Pretty, fun and successsful .               | 
+|  Me    |  Love Python and Math.                                                                |
 
 
 ## :)
