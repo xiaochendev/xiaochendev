@@ -21,6 +21,7 @@
     🎯 You DEFINITELY not gonna make it, if you don't even try. You MIGHT if you try. 
     💋 不喜欢这世界，却深爱着这世界！
     🌈 Enjoy, Love, Peace and Miracle.
+    👽 Passion makes pain bearable.
 
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ouerxiao.visitor-badge)
