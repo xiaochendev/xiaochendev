@@ -5,15 +5,14 @@
 
  - I am currently working on ...
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ouerxiao&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## How I meet “You” ,
 
 |        | Characteristic                                                                        |
 |--------|---------------------------------------------------------------------------------------|  
-| Python |  Life is short~~~ Not the fastest, but supportive, smart,and honest.                  |  
-|  Math  |  The combination of logic and innovation. Pretty, fun and successsful .               | 
+| Python |  Life is short~~~ Not the fastest, but supportive, smart, and honest.                 |  
+|  Math  |  The combination of logic and innovation. Pretty, fun and successsful.                | 
 |  Me    |  Like Python and Math.                                                                |
 
 
