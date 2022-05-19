@@ -20,7 +20,7 @@
     💋 不喜欢这世界，却深爱着这世界！
     🌈 Enjoy, Love, Peace and Miracle.
     👽 Passion makes pain bearable.
-
+    🤡 python长大了，该学会自己码自己了...
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ouerxiao.visitor-badge)
 
