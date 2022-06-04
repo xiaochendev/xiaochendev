@@ -16,9 +16,9 @@
 
 
     if(you love me && I love you){ 
-            this.liveToOld();
+        this.liveToOld();
     else{
-           this.bestWishesToYou();   
+        this.bestWishesToYou();   
     }
 
 
