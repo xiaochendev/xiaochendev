@@ -9,9 +9,8 @@
 
 ## ?
 
-|        |  chracteristic                                                                        |
-|--------|---------------------------------------------------------------------------------------|  
 | Python |  Life is short~~~ Not the fastest, but supportive, smart, and honest.                 |  
+|--------|---------------------------------------------------------------------------------------|
 |  Math  |  The combination of logic and innovation. Pretty, fun and successsful.                | 
 
 
