@@ -14,13 +14,13 @@
 | Python |  Life is short~~~ Not the fastest, but supportive, smart, and honest.                 |  
 |  Math  |  The combination of logic and innovation. Pretty, fun and successsful.                | 
 
----
-if(you love me && I love you){ 
-       this.liveToOld();
-else{
-       this.bestWishesToYou();   
-}
----
+
+    if(you love me && I love you){ 
+            this.liveToOld();
+    else{
+           this.bestWishesToYou();   
+    }
+
 
 
 ## :)
