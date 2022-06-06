@@ -1,15 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/ouerxiao" target="_blank">Xiao Chen</a> <img
 src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="32" /></h1>
 
-##  
-![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![docker](https://badgen.net/badge/icon/docker?icon=docker&label)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ouerxiao.visitor-badge)
 
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
@@ -18,10 +10,8 @@ src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="32" /><
 
 </details>
 
-
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=ouerxiao&custom_title=Xiao's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ouerxiao.visitor-badge)
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-292%20Thousand%20lines%20of%20code-blue)
 
 
@@ -36,12 +26,9 @@ Thursday     117 commits    ███░░░░░░░░░░░░░░�
 Friday       113 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.91% 
 Saturday     54 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.12% 
 Sunday       51 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.73%
-
 ```
-
-
  Last Updated on 05/06/2022 17:01:13 UTC
-<!--END_SECTION:waka-->
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
