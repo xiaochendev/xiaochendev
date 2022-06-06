@@ -29,9 +29,12 @@ Sunday       51 commits     █░░░░░░░░░░░░░░░░�
  Last Updated on 05/06/2022 17:01:13 UTC
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p>
+<div align="center">
+    <img  src="./icon/github-contribution-grid-snake.svg" />
+    <br />
+    <img width="20%"  src="./images/catcoding.gif" alt="catcoding" />
+
+</div>
 
 <h3>Where to find me</h3>
 <p><a href="https://github.com/ouerxiao" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/ouerxiao" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/xiao-chen-aa604053" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@ouerxiao" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
