@@ -1,7 +1,8 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ouerxiao.ouerxiao">
+
 <h1 align="center">Hi there, I'm <a href="https://github.com/ouerxiao" target="_blank">Xiao Chen</a> <img
 src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="32" /></h1>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ouerxiao.visitor-badge)
 
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
@@ -26,7 +27,6 @@ Friday       113 commits    ███░░░░░░░░░░░░░░�
 Saturday     54 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.12% 
 Sunday       51 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.73%
 ```
- Last Updated on 05/06/2022 17:01:13 UTC
 
 
 <div align="center">
