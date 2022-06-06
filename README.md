@@ -1,14 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/ouerxiao" target="_blank">Xiao Chen</a> <img
 src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="32" /></h1>
 
-<p align="center">
-<br/>
-  <a href="https://www.linkedin.com/in/xiao-chen-aa604053">
-    <img alt="guilyx's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
-  </a>
-   <br>
-</p>
-
 ##  
 ![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
@@ -56,13 +48,9 @@ Sunday       51 commits     █░░░░░░░░░░░░░░░░�
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
+<h3>Where to find me</h3>
+<p><a href="https://github.com/ouerxiao" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/ouerxiao" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/xiao-chen-aa604053" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@ouerxiao" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+</p>
 
-:yum:
-
-	if(you love me && I love you){ 
-	    this.liveToOld();
-	else{
-	    this.bestWishesToYou();   
-	}
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ouerxiao.visitor-badge)
