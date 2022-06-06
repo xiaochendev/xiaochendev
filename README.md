@@ -11,7 +11,11 @@ src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="32" /><
 
 </details>
 
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=ouerxiao&custom_title=Xiao's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align=center>
+  <img src="https://activity-graph.herokuapp.com/graph?username=ouerxiao&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
+
+
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-292%20Thousand%20lines%20of%20code-blue)
 
