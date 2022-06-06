@@ -34,13 +34,6 @@ src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="32" /><
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-292%20Thousand%20lines%20of%20code-blue)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    133 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.55% 
-🌆 Daytime    391 commits    █████████████░░░░░░░░░░░░   51.58% 
-🌃 Evening    170 commits    █████░░░░░░░░░░░░░░░░░░░░   22.43% 
-🌙 Night      64 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.44%
 
 ```
 📅 **I'm Most Productive on Monday** 
