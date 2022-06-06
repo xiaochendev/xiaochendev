@@ -2,9 +2,6 @@
 
 ## Hi There 👋
 
- - I am currently working on ...
-
-
 <p align="center">
 <br/>
 <a href="https://twitter.com/ouerxiao">
@@ -14,34 +11,22 @@
     <img alt="guilyx's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
   </a>
    <br>
-   ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ouerxiao.visitor-badge)
 </p>
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ouerxiao.visitor-badge)
 
-## ?
 
-    if(you love me && I love you){ 
-        this.liveToOld();
-    else{
-        this.bestWishesToYou();   
-    }
 
 ## Skills 
 [![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
-
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-
 ![docker](https://badgen.net/badge/icon/docker?icon=docker&label)
 
-
-## :)
-    🎯 You DEFINITELY not gonna make it, if you don't even try. You MIGHT if you try. 
-    🌈 Enjoy, Love, Peace and Miracle.
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=ouerxiao&custom_title=Xiao's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -93,6 +78,16 @@ Unknown Project          0 secs              ░░░░░░░░░░░�
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
+
+# :)
+    🎯 You DEFINITELY not gonna make it, if you don't even try. You MIGHT if you try. 
+    🌈 Enjoy, Love, Peace and Miracle.
+
+	if(you love me && I love you){ 
+	    this.liveToOld();
+	else{
+	    this.bestWishesToYou();   
+	}
 
 Feel free to contact me :yum:
 <br><br>
