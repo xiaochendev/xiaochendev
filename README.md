@@ -50,20 +50,6 @@ Sunday       51 commits     █░░░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: US/NewYork
-
-💬 Programming Languages: 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
-
-🐱‍💻 Projects: 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
-
-```
-
-
  Last Updated on 05/06/2022 17:01:13 UTC
 <!--END_SECTION:waka-->
 
