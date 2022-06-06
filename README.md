@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https//github.com/ouerxiao">Xiao Chen</a> <img
+<h1 align="center">Hi there, I'm <a href="https://github.com/ouerxiao" target="_blank">Xiao Chen</a> <img
 src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="32" /></h1>
 
 <p align="center">
@@ -65,7 +65,7 @@ Sunday       51 commits     █░░░░░░░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Europe/Paris
+⌚︎ Time Zone: US/NewYork
 
 💬 Programming Languages: 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
