@@ -7,20 +7,14 @@
 
 <p align="center">
 <br/>
-<a href="https://twitter.com/nthofhisname">
+<a href="https://twitter.com/ouerxiao">
   <img alt="guilyx | Twitter" width="50px" src="https://user-images.githubusercontent.com/43545812/144034996-602b144a-16e1-41cc-99e7-c6040b20dcaf.png"/>
   </a>
-  <a href="https://www.linkedin.com/in/erwinlejeune-lkn">
+  <a href="https://www.linkedin.com/in/xiao-chen-aa604053">
     <img alt="guilyx's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
   </a>
-   <a href="https://www.instagram.com/nthofhisname">
-      <img alt="guilyx's Instagram" width="50px" src="https://user-images.githubusercontent.com/43545812/144035088-0dfb165f-8fe0-4d13-896c-876c29d2b128.png" />
-   </a>
-   <a href="https://open.spotify.com/user/11147618695?si=zZFn6uAGRLyoU02lsG50GA">
-        <img alt="guilyx's Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
-   </a>
    <br>
-   <img alt="Code Time" src="https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/1615?logoColor=white%26project=%26recentMS=0%26showProject=false" />
+   ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ouerxiao.visitor-badge)
 </p>
 
 
@@ -49,7 +43,56 @@
     🎯 You DEFINITELY not gonna make it, if you don't even try. You MIGHT if you try. 
     🌈 Enjoy, Love, Peace and Miracle.
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ouerxiao.visitor-badge)
+[![activity graph](https://activity-graph.herokuapp.com/graph?username=ouerxiao&custom_title=Xiao's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-292%20Thousand%20lines%20of%20code-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    133 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.55% 
+🌆 Daytime    391 commits    █████████████░░░░░░░░░░░░   51.58% 
+🌃 Evening    170 commits    █████░░░░░░░░░░░░░░░░░░░░   22.43% 
+🌙 Night      64 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.44%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       144 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.0% 
+Tuesday      139 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.34% 
+Wednesday    140 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.47% 
+Thursday     117 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.44% 
+Friday       113 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.91% 
+Saturday     54 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.12% 
+Sunday       51 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.73%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Paris
+
+💬 Programming Languages: 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+
+🐱‍💻 Projects: 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+
+```
+
+
+ Last Updated on 05/06/2022 17:01:13 UTC
+<!--END_SECTION:waka-->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
 
 Feel free to contact me :yum:
 <br><br>
