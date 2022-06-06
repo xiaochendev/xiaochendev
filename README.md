@@ -91,8 +91,5 @@ Unknown Project          0 secs              ░░░░░░░░░░░�
 
 Feel free to contact me :yum:
 <br><br>
-[<img src="https://img.shields.io/badge/Telegram-%40moepoi-blue">](https://t.me/moepoi)
-[<img src="https://img.shields.io/badge/LINE-moepoi-brightgreen">](https://line.me/ti/p/~moepoi)
-[<img src="https://img.shields.io/badge/Email-moe%40chocola.dev-orange">](mailto:moe@chocola.dev)
-[<img src="https://img.shields.io/badge/Personal%20Site-moepoi.dev-red">](https://moepoi.dev)
+[<img src="https://img.shields.io/badge/Email-ouerxiao%gmail.com-orange">](mailto:ouerxiao@gmail.com)
 
