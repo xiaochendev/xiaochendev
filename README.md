@@ -1,7 +1,5 @@
-
-
-
-## Hi There 👋
+<h1 align="center">Hi there, I'm <a href="https//github.com/ouerxiao">Xiao Chen</a> <img
+src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="32" /></h1>
 
 <p align="center">
 <br/>
@@ -16,7 +14,7 @@
 
 
 
-## Skills 
+##  
 ![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
