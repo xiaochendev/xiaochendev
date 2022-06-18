@@ -25,23 +25,6 @@ src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="32" /><
 </p>
 
 
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-292%20Thousand%20lines%20of%20code-blue)
-
-
-```
-📅 **I'm Most Productive on Monday** 
-
-Monday       144 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.0% 
-Tuesday      139 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.34% 
-Wednesday    140 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.47% 
-Thursday     117 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.44% 
-Friday       113 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.91% 
-Saturday     54 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.12% 
-Sunday       51 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.73%
-```
-
-
 <div align="center">
     <img  src="./icon/github-contribution-grid-snake.svg" />
     <br />
