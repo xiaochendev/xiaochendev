@@ -20,11 +20,6 @@ src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="32" /><
 
 </details>
 
-<p align=center>
-  <img src="https://activity-graph.herokuapp.com/graph?username=ouerxiao&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
-
-
 <div align="center">
     <img  src="./icon/github-contribution-grid-snake.svg" />
     <br />
