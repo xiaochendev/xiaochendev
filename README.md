@@ -23,8 +23,7 @@ src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="32" /><
 <div align="center">
     <img  src="./icon/github-contribution-grid-snake.svg" />
     <br />
-    <img width="20%"  src="./images/catcoding.gif" alt="catcoding" />
-
+    <img width="100%"  src="./images/catcoding.gif" alt="catcoding" />
 </div>
 
 <h3>Where to find me</h3>
