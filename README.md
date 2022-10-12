@@ -31,10 +31,8 @@ src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="32" /><
 </p>
 
 
-<h3>⚡Tech</h3>
+<h2>⚡Tech</h2>
 <h4> 🤖 Machine Learning </h4>
 <p>Huggingface Transformers, PyTorch, Scikit-Learn, TensorFlow/Keras, Weights & Bias, Optuna</p>
 <h4> ☁️ Cloud </h4>
 <p>AWS, GCP, Azure, Kubernetes, Kubeflow, Docker, Terraform, Github Actions, CDK, Serverless Framework, Amazon SageMaker </p>
-<h4> 🏗️ Non-ML Frameworks </h4>
-<p>Rust, React, Svelte, GraphQL, Next.js, TailwindCSS </p>
