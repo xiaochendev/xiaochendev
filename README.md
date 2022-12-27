@@ -21,8 +21,6 @@ src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="32" /><
 </details>
 
 <div align="center">
-    <img  src="./icon/github-contribution-grid-snake.svg" />
-    <br />
     <img width="20%"  src="./images/catcoding.gif" alt="catcoding" />
 </div>
 
