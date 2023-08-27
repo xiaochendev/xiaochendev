@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ouerxiao.visitor-badget">
 
-<h1 align="center">Hi there, I'm <a href="https://github.com/ouerxiao" target="_blank">Xiao Chen</a> <img
+<h1 align="center">Hi there, I'm <a href="https://github.com/ouerxiao" target="_blank">Xiao</a> <img
 src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="32" /></h1>
 
     
