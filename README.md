@@ -24,12 +24,3 @@ src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="32" /><
     <img width="20%"  src="./images/catcoding.gif" alt="catcoding" />
 </div>
 
-<h3>Where to find me</h3>
-<p><a href="https://github.com/xiaochendev" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/xiaochenpro" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/xiaochenpro" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-</p>
-
-
-<h4> 🤖 Machine Learning </h4>
-<p>Huggingface Transformers, PyTorch, Scikit-Learn, TensorFlow/Keras, Weights & Bias, Optuna</p>
-<h4> ☁️ Cloud </h4>
-<p>AWS, GCP, Azure, Kubernetes, Kubeflow, Docker, Terraform, Github Actions, CDK, Serverless Framework, Amazon SageMaker </p>
